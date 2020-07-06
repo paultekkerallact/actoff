@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-product.website/actoff/");
+header("Location: https://act-off.herokuapp.com/");
 die();
 ?>
